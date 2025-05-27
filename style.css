@@ -1,0 +1,26 @@
+h2{
+    color:orange;
+}
+
+body {
+    background-color: #1A1617;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;    
+    text-align: center;
+}
+
+
+header {
+    border-bottom: 1px solid rgb(180,10,10); }
+
+footer {
+    border-top: 1px solid grey; 
+}
+
+#nomeUsuario { 
+  font-weight: bold;
+}
+
+.textoIngles { 
+    font-style: italic;
+}
